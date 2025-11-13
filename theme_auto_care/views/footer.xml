@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+   <template id="theme_furni_footer" inherit_id="website.layout"
+              name="theme_furni">
+        <xpath expr="//div[@id='footer']" position="replace">
+
+<!--FOOTER-->
+
+        <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-section">
+                    <h3>AutoCare Pro</h3>
+                    <p>Your trusted partner for all vehicle service needs. Professional, reliable, and affordable.</p>
+                    <div class="social-links">
+                        <a href="#"><i class="fa fa-facebook"></i></a>
+                        <a href="#"><i class="fa fa-twitter"></i></a>
+                        <a href="#"><i class="fa fa-instagram"></i></a>
+                        <a href="#"><i class="fa fa-linkedin"></i></a>
+                    </div>
+                </div>
+                <div class="footer-section">
+                    <h4>Services</h4>
+                    <ul>
+                        <li><a href="/ac_service_detailed">Car Wash</a></li>
+                        <li><a href="/ac_service_detailed">Oil Change</a></li>
+                        <li><a href="/ac_service_detailed">Full Service</a></li>
+                        <li><a href="/ac_service_detailed">Tire Services</a></li>
+                        <li><a href="/ac_service_detailed">AC Repair</a></li>
+                        <li><a href="/ac_contact_emergency">Emergency Service</a></li>
+                    </ul>
+                </div>
+                <div class="footer-section">
+                    <h4>Company</h4>
+                    <ul>
+                        <li><a href="/about">About Us</a></li>
+                        <li><a href="/ac_team">Our Team</a></li>
+                        <li><a href="/contact">Contact</a></li>
+<!--                        <li><a href="#">Blog</a></li>-->
+                    </ul>
+                </div>
+                <div class="footer-section">
+                    <h4>Contact Info</h4>
+                    <div class="contact-info">
+                        <p><i class="fa fa-map-marker"></i> 123 Service St, Auto City, AC 12345</p>
+                        <p><i class="fa fa-mobile-phone"></i> +1 (312) 114-2125</p>
+                        <p><i class="fa fa-envelope"></i> info@autocarepro.com</p>
+                        <p><i class="fa fa-clock-o"></i> Mon-sat: 8AM-6PM, Sun: 9AM-2PM</p>
+                    </div>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p> 2025 AutoCare Pro. All rights reserved.</p>
+            </div>
+        </div>
+    </footer>
+        </xpath>
+    </template>
+</odoo>

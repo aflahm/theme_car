@@ -1,0 +1,460 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <template id="ac_service_detailed" name="Service Detailed">
+        <section class="detailed-services">
+
+            <div class="container">
+                    <!-- Car Wash & Detailing -->
+                <div class="service-detail maintenance cosmetic" data-category="maintenance cosmetic">
+                    <div class="service-image">
+                        <img src="theme_auto_care/static/description/car_detailing.jpg"
+                             alt="Car Wash Service"/>
+                    </div>
+                    <div class="service-content">
+                        <div class="service-header">
+                            <h2>Car Wash and Detailing</h2>
+                            <div class="service-badge">Most Popular</div>
+                        </div>
+                        <p class="service-description">
+                            Professional car wash and detailing services to keep your vehicle looking pristine.
+                            We use premium products and techniques to ensure your car shines inside and out.
+                        </p>
+                        <div class="service-features">
+                            <h3>What's Included:</h3>
+                            <ul>
+                                <li>
+                                    <i class="fa fa-check-square-o"></i>
+                                    Exterior wash and wax
+                                </li>
+                                <li>
+                                    <i class="fa fa-check-square-o"></i>
+                                    Interior vacuum and cleaning
+                                </li>
+                                <li>
+                                    <i class="fa fa-check-square-o"></i>
+                                    Dashboard and console cleaning
+                                </li>
+                                <li>
+                                    <i class="fa fa-check-square-o"></i>
+                                    Window cleaning (inside and out)
+                                </li>
+                                <li>
+                                    <i class="fa fa-check-square-o"></i>
+                                    Tire and rim cleaning
+                                </li>
+                                <li>
+                                    <i class="fa fa-check-square-o"></i>
+                                    Air freshener application
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="service-pricing">
+                            <div class="price-option">
+                                <h4>Basic Wash</h4>
+                                <span class="price">$25</span>
+                                <p>Exterior wash, vacuum, and basic cleaning</p>
+                            </div>
+                            <div class="price-option">
+                                <h4>Premium Detail</h4>
+                                <span class="price">$75</span>
+                                <p>Full interior/exterior detail with wax</p>
+                            </div>
+                            <div class="price-option">
+                                <h4>Luxury Detail</h4>
+                                <span class="price">$150</span>
+                                <p>Complete detail with paint correction</p>
+                            </div>
+                        </div>
+                        <div class="service-actions">
+                            <button class="btn btn-primary" onclick="window.location.href='/map_nd_form'">
+                                <i class="fa fa-calendar"></i>
+                                Book Now
+                            </button>
+                        </div>
+                    </div>
+                </div>
+
+
+                <!-- Oil Change -->
+                <div class="service-detail maintenance" data-category="maintenance">
+                    <div class="service-image">
+                        <img src="theme_auto_care/static/description/car_oil_change.jpg"
+                             alt="Oil Change Service"/>
+                    </div>
+                    <div class="service-content">
+                        <div class="service-header">
+                            <h2>Oil Change Service</h2>
+                            <div class="service-badge">Essential</div>
+                        </div>
+                        <p class="service-description">
+                            Regular oil changes are crucial for your engine's longevity. We use high-quality
+                            motor oil and filters to ensure optimal engine performance and protection.
+                        </p>
+                        <div class="service-features">
+                            <h3>What's Included:</h3>
+                            <ul>
+                                <li>
+                                    <i class="fa fa-check-square-o"></i>
+                                    Premium motor oil (5W-30, 10W-30, or synthetic)
+                                </li>
+                                <li>
+                                    <i class="fa fa-check-square-o"></i>
+                                    High-quality oil filter replacement
+                                </li>
+                                <li>
+                                    <i class="fa fa-check-square-o"></i>
+                                    Oil level check and adjustment
+                                </li>
+                                <li>
+                                    <i class="fa fa-check-square-o"></i>
+                                    Basic fluid level inspection
+                                </li>
+                                <li>
+                                    <i class="fa fa-check-square-o"></i>
+                                    Tire pressure check
+                                </li>
+                                <li>
+                                    <i class="fa fa-check-square-o"></i>
+                                    Visual brake inspection
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="service-pricing">
+                            <div class="price-option">
+                                <h4>Conventional Oil</h4>
+                                <span class="price">$35</span>
+                                <p>Standard oil change with conventional oil</p>
+                            </div>
+                            <div class="price-option">
+                                <h4>Synthetic Oil</h4>
+                                <span class="price">$65</span>
+                                <p>Premium synthetic oil for better protection</p>
+                            </div>
+                            <div class="price-option">
+                                <h4>High Mileage</h4>
+                                <span class="price">$55</span>
+                                <p>Special oil for vehicles over 75,000 miles</p>
+                            </div>
+                        </div>
+                        <div class="service-actions">
+                            <button class="btn btn-primary" onclick="window.location.href='/map_nd_form'">
+                                <i class="fa fa-calendar"></i>
+                                Book Now
+                            </button>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Full Service -->
+                <div class="service-detail maintenance" data-category="maintenance">
+                    <div class="service-image">
+                        <img src="theme_auto_care/static/description/complete vehicle service.jpg"
+                             alt="Full Service"/>
+                    </div>
+                    <div class="service-content">
+                        <div class="service-header">
+                            <h2>Complete Vehicle Service</h2>
+                            <div class="service-badge">Comprehensive</div>
+                        </div>
+                        <p class="service-description">
+                            Our comprehensive service package includes everything your vehicle needs for optimal
+                            performance. Perfect for regular maintenance or before long trips.
+                        </p>
+                        <div class="service-features">
+                            <h3>What's Included:</h3>
+                            <ul>
+                                <li>
+                                    <i class="fa fa-check-square-o"></i>
+                                    Oil change with premium filter
+                                </li>
+                                <li>
+                                    <i class="fa fa-check-square-o"></i>
+                                    Air filter replacement
+                                </li>
+                                <li>
+                                    <i class="fa fa-check-square-o"></i>
+                                    Cabin air filter check/replacement
+                                </li>
+                                <li>
+                                    <i class="fa fa-check-square-o"></i>
+                                    Brake inspection and adjustment
+                                </li>
+                                <li>
+                                    <i class="fa fa-check-square-o"></i>
+                                    Tire rotation and pressure check
+                                </li>
+                                <li>
+                                    <i class="fa fa-check-square-o"></i>
+                                    Battery and charging system test
+                                </li>
+                                <li>
+                                    <i class="fa fa-check-square-o"></i>
+                                    Fluid level inspection and top-off
+                                </li>
+                                <li>
+                                    <i class="fa fa-check-square-o"></i>
+                                    Belts and hoses inspection
+                                </li>
+                                <li>
+                                    <i class="fa fa-check-square-o"></i>
+                                    Exhaust system check
+                                </li>
+                                <li>
+                                    <i class="fa fa-check-square-o"></i>
+                                    Computer diagnostic scan
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="service-pricing">
+                            <div class="price-option">
+                                <h4>Standard Service</h4>
+                                <span class="price">$150</span>
+                                <p>Complete inspection and basic maintenance</p>
+                            </div>
+                            <div class="price-option">
+                                <h4>Premium Service</h4>
+                                <span class="price">$250</span>
+                                <p>Includes synthetic oil and premium filters</p>
+                            </div>
+                            <div class="price-option">
+                                <h4>Deluxe Service</h4>
+                                <span class="price">$350</span>
+                                <p>Full service plus brake cleaning and alignment check</p>
+                            </div>
+                        </div>
+                        <div class="service-actions">
+                            <button class="btn btn-primary" onclick="window.location.href='/map_nd_form'">
+                                <i class="fa fa-calendar"></i>
+                                Book Now
+                            </button>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Tire Services -->
+                <div class="service-detail maintenance repair" data-category="maintenance repair">
+                    <div class="service-image">
+                        <img src="theme_auto_care/static/description/tyre service.jpg"
+                             alt="Tire Services"/>
+                    </div>
+                    <div class="service-content">
+                        <div class="service-header">
+                            <h2>Tyre Services</h2>
+                            <div class="service-badge">Safety First</div>
+                        </div>
+                        <p class="service-description">
+                            Proper tyre maintenance is essential for safety and performance. We offer complete
+                            tyre services including replacement, rotation, balancing, and alignment.
+                        </p>
+                        <div class="service-features">
+                            <h3>What's Included:</h3>
+                            <ul>
+                                <li>
+                                    <i class="fa fa-check-square-o"></i>
+                                    Tyre pressure check and adjustment
+                                </li>
+                                <li>
+                                    <i class="fa fa-check-square-o"></i>
+                                    Tread depth measurement
+                                </li>
+                                <li>
+                                    <i class="fa fa-check-square-o"></i>
+                                    Tyre rotation (if applicable)
+                                </li>
+                                <li>
+                                    <i class="fa fa-check-square-o"></i>
+                                    Wheel balancing
+                                </li>
+                                <li>
+                                    <i class="fa fa-check-square-o"></i>
+                                    Alignment check and adjustment
+                                </li>
+                                <li>
+                                    <i class="fa fa-check-square-o"></i>
+                                    Tyre replacement with mounting
+                                </li>
+                                <li>
+                                    <i class="fa fa-check-square-o"></i>
+                                    TPMS sensor service
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="service-pricing">
+                            <div class="price-option">
+                                <h4>Tyre Rotation</h4>
+                                <span class="price">$25</span>
+                                <p>Rotate tires for even wear</p>
+                            </div>
+                            <div class="price-option">
+                                <h4>Balance and Align</h4>
+                                <span class="price">$80</span>
+                                <p>Wheel balancing and alignment check</p>
+                            </div>
+                            <div class="price-option">
+                                <h4>Tyre Replacement</h4>
+                                <span class="price">$120+</span>
+                                <p>New tire with mounting and balancing</p>
+                            </div>
+                        </div>
+                        <div class="service-actions">
+                            <button class="btn btn-primary" onclick="window.location.href='/map_nd_form'">
+                                <i class="fa fa-calendar"></i>
+                                Book Now
+                            </button>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- AC Repair -->
+                <div class="service-detail repair" data-category="repair">
+                    <div class="service-image">
+                        <img src="theme_auto_care/static/description/Car-AC-Repair-Near-Me-Vista.jpg"
+                             alt="AC Repair Service"/>
+                    </div>
+                    <div class="service-content">
+                        <div class="service-header">
+                            <h2>Air Conditioning Repair</h2>
+                            <div class="service-badge">Climate Control</div>
+                        </div>
+                        <p class="service-description">
+                            Stay cool and comfortable with our professional AC repair services. We diagnose
+                            and fix all air conditioning issues to keep you comfortable year-round.
+                        </p>
+                        <div class="service-features">
+                            <h3>What's Included:</h3>
+                            <ul>
+                                <li>
+                                    <i class="fa fa-check-square-o"></i>
+                                    AC system diagnostic
+                                </li>
+                                <li>
+                                    <i class="fa fa-check-square-o"></i>
+                                    Refrigerant leak detection
+                                </li>
+                                <li>
+                                    <i class="fa fa-check-square-o"></i>
+                                    Compressor inspection
+                                </li>
+                                <li>
+                                    <i class="fa fa-check-square-o"></i>
+                                    Condenser cleaning
+                                </li>
+                                <li>
+                                    <i class="fa fa-check-square-o"></i>
+                                    Cabin filter replacement
+                                </li>
+                                <li>
+                                    <i class="fa fa-check-square-o"></i>
+                                    Refrigerant recharge
+                                </li>
+                                <li>
+                                    <i class="fa fa-check-square-o"></i>
+                                    Blower motor testing
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="service-pricing">
+                            <div class="price-option">
+                                <h4>AC Diagnostic</h4>
+                                <span class="price">$50</span>
+                                <p>Complete system inspection and diagnosis</p>
+                            </div>
+                            <div class="price-option">
+                                <h4>AC Recharge</h4>
+                                <span class="price">$120</span>
+                                <p>Refrigerant recharge and leak test</p>
+                            </div>
+                            <div class="price-option">
+                                <h4>AC Repair</h4>
+                                <span class="price">$200+</span>
+                                <p>Component replacement and system repair</p>
+                            </div>
+                        </div>
+                        <div class="service-actions">
+                            <button class="btn btn-primary" onclick="window.location.href='/map_nd_form'">
+                                <i class="fa fa-calendar"></i>
+                                Book Now
+                            </button>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Emergency Service -->
+                <div class="service-detail emergency" data-category="emergency">
+                    <div class="service-image">
+                        <img src="theme_auto_care/static/description/emergency.jpg"
+                             alt="Emergency Service"/>
+                    </div>
+                    <div class="service-content">
+                        <div class="service-header">
+                            <h2>Emergency Roadside Service</h2>
+                            <div class="service-badge">24/7 Available</div>
+                        </div>
+                        <p class="service-description">
+                            When you need help fat, our emergency service team is ready 24/7. We provide
+                            roadside assistance and emergency repairs to get you back on the road safely.
+                        </p>
+                        <div class="service-features">
+                            <h3>What's Included:</h3>
+                            <ul>
+                                <li>
+                                    <i class="fa fa-check-square-o"></i>
+                                    Jump start service
+                                </li>
+                                <li>
+                                    <i class="fa fa-check-square-o"></i>
+                                    Flat tire change
+                                </li>
+                                <li>
+                                    <i class="fa fa-check-square-o"></i>
+                                    Lockout assistance
+                                </li>
+                                <li>
+                                    <i class="fa fa-check-square-o"></i>
+                                    Fuel delivery
+                                </li>
+                                <li>
+                                    <i class="fa fa-check-square-o"></i>
+                                    Towing service
+                                </li>
+                                <li>
+                                    <i class="fa fa-check-square-o"></i>
+                                    Emergency diagnostics
+                                </li>
+                                <li>
+                                    <i class="fa fa-check-square-o"></i>
+                                    Minor repairs on-site
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="service-pricing">
+                            <div class="price-option">
+                                <h4>Basic Emergency</h4>
+                                <span class="price">$100</span>
+                                <p>Jump start, tire change, or lockout</p>
+                            </div>
+                            <div class="price-option">
+                                <h4>Fuel Delivery</h4>
+                                <span class="price">$75</span>
+                                <p>Emergency fuel delivery service</p>
+                            </div>
+                            <div class="price-option">
+                                <h4>Towing Service</h4>
+                                <span class="price">$150</span>
+                                <p>Local towing to our service center</p>
+                            </div>
+                        </div>
+                        <div class="service-actions">
+                            <button class="btn btn-primary" onclick="window.location.href='/ac_contact_emergency'"
+                                    style="background: #ef4444;">
+                                <i class="fa fa-ambulance"></i>
+                                Call Emergency
+                            </button>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </template>
+</odoo>

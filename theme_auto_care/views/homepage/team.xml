@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+  <template id="ac_team" name="Our Team">
+     <!-- Team Section -->
+    <section id="team" class="team-section">
+        <div class="container">
+            <h2>Meet Our Team</h2>
+            <p class="section-subtitle">Experienced professionals dedicated to your vehicle's care</p>
+            <div class="team-grid">
+                <div class="team-member">
+                    <div class="member-photo">
+                        <img src="theme_auto_care/static/description/cus review2.jpg" alt="John Martinez"/>
+                    </div>
+                    <div class="member-info">
+                        <h3>John Martinez</h3>
+                        <p class="member-title">Founder and Lead Technician</p>
+                        <p class="member-bio">
+                            With 20+ years of experience, John specializes in engine diagnostics and complex repairs.
+                            ASE Master Certified with expertise in European and domestic vehicles.
+                        </p>
+                        <div class="member-certifications">
+                            <span class="cert-badge">ASE Master</span>
+                            <span class="cert-badge">Engine Specialist</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="team-member">
+                    <div class="member-photo">
+                        <img src="theme_auto_care/static/description/cust review1.jpg" alt="Sarah Martinez"/>
+                    </div>
+                    <div class="member-info">
+                        <h3>Sarah Martinez</h3>
+                        <p class="member-title">Co-Founder and Service Manager</p>
+                        <p class="member-bio">
+                            Sarah oversees customer relations and service operations. Her background in business
+                            management ensures smooth operations and exceptional customer experience.
+                        </p>
+                        <div class="member-certifications">
+                            <span class="cert-badge">Service Management</span>
+                            <span class="cert-badge">Customer Relations</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="team-member">
+                    <div class="member-photo">
+                        <img src="theme_auto_care/static/description/cus review3.jpg" alt="Mike Chen"/>
+                    </div>
+                    <div class="member-info">
+                        <h3>Mike Chen</h3>
+                        <p class="member-title">Senior Technician</p>
+                        <p class="member-bio">
+                            Mike is our electrical systems expert with 15 years of experience. He handles
+                            complex wiring issues, computer diagnostics, and hybrid vehicle repairs.
+                        </p>
+                        <div class="member-certifications">
+                            <span class="cert-badge">Electrical Systems</span>
+                            <span class="cert-badge">Hybrid Specialist</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="team-member">
+                    <div class="member-photo">
+                        <img src="theme_auto_care/static/description/cust5.jpg" alt="Lisa Rodriguez"/>
+                    </div>
+                    <div class="member-info">
+                        <h3>Lisa Rodriguez</h3>
+                        <p class="member-title">Customer Service Representative</p>
+                        <p class="member-bio">
+                            Lisa specializes in brake systems, suspension work, and alignment. Her attention
+                            to detail and precision work has earned her recognition among customers and peers.
+                        </p>
+                        <div class="member-certifications">
+                            <span class="cert-badge">Customer Service</span>
+                            <span class="cert-badge">Appointment Specialist</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="team-member">
+                    <div class="member-photo">
+                        <img src="theme_auto_care/static/description/cust4.jpg" alt="David Thompson"/>
+                    </div>
+                    <div class="member-info">
+                        <h3>David Thompson</h3>
+                        <p class="member-title">AC and Heating Specialist</p>
+                        <p class="member-bio">
+                            David is our climate control expert, handling AC repairs, heating systems, and
+                            ventilation issues. He's certified in refrigerant handling and environmental compliance.
+                        </p>
+                        <div class="member-certifications">
+                            <span class="cert-badge">AC Systems</span>
+                            <span class="cert-badge">EPA Certified</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="team-member">
+                    <div class="member-photo">
+                        <img src="theme_auto_care/static/description/cust6n.jpg" alt="Emily Johnson"/>
+                    </div>
+                    <div class="member-info">
+                        <h3>Emil Johnson</h3>
+                        <p class="member-title">Brake and Suspension Specialist</p>
+                        <p class="member-bio">
+                            Emily is your first point of contact, helping schedule appointments, answer
+                            questions, and ensure your service experience is smooth from start to finish.
+                        </p>
+                        <div class="member-certifications">
+                            <span class="cert-badge">Brake Systems</span>
+                            <span class="cert-badge">Suspension Expert</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+  </template>
+</odoo>

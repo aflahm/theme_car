@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+  <template id="ac_help"  name="Help">
+        <section class="usp">
+        <div class="container">
+            <div class="usp-grid">
+                <div class="usp-item">
+                    <i class="fa fa-clock-o"></i>
+
+                    <h3>24/7 Emergency Service</h3>
+                    <p>Round-the-clock assistance for urgent repairs</p>
+                </div>
+                <div class="usp-item">
+                    <i class="fa fa-certificate"></i>
+                    <h3>Certified Technicians</h3>
+                    <p>ASE certified mechanics with years of experience</p>
+                </div>
+                <div class="usp-item">
+                    <i class="fa fa-dollar"></i>
+                    <h3>Best Price Guarantee</h3>
+                    <p>Competitive pricing with quality assurance</p>
+                </div>
+                <div class="usp-item">
+                    <i class="fa fa-shield"></i>
+                    <h3>Warranty Protection</h3>
+                    <p>Comprehensive warranty on all services</p>
+                </div>
+            </div>
+        </div>
+    </section>
+  </template>
+</odoo>

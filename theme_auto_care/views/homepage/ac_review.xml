@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <template id="ac_review" name="Review">
+         <section class="testimonials">
+        <div class="container">
+            <h2>What Our Customers Say</h2>
+            <div class="testimonials-grid">
+                <div class="testimonial-card">
+                    <div class="stars">
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                    </div>
+                    <p>"Excellent service! The team was professional and completed my car's maintenance quickly. Highly recommended!"</p>
+                    <div class="customer">
+                        <img src="theme_auto_care/static/description/cus review2.jpg" alt="Customer"/>
+                        <div>
+                            <h4>John Smith</h4>
+                            <span>Regular Customer</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="testimonial-card">
+                    <div class="stars">
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                    </div>
+                    <p>"Great emergency service! They came to my location and fixed my car on the spot. Very reliable!"</p>
+                    <div class="customer">
+                        <img src="theme_auto_care/static/description/cust review1.jpg" alt="Customer"/>
+                        <div>
+                            <h4>Sarah Johnson</h4>
+                            <span>Emergency Service</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="testimonial-card">
+                    <div class="stars">
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                    </div>
+                    <p>"Fair pricing and honest service. They explained everything clearly and didn't try to upsell unnecessary services."</p>
+                    <div class="customer">
+                        <img src="theme_auto_care/static/description/cus review3.jpg" alt="Customer"/>
+                        <div>
+                            <h4>Mike Davis</h4>
+                            <span>New Customer</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    </template>
+</odoo>

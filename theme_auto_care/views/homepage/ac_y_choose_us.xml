@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <template id="ac_y_choose_us" name="Why Choose Us">
+          <!-- Why Choose Us -->
+    <section class="why-choose-us">
+        <div class="container">
+            <h2>Why Choose AutoCare Pro?</h2>
+            <div class="features-grid">
+                <div class="feature-item">
+                    <i class="fa fa-certificate"></i>
+                    <h3>Certified Technicians</h3>
+                    <p>All our mechanics are ASE certified with years of experience</p>
+                </div>
+                <div class="feature-item">
+                    <i class="fa fa-shield"></i>
+                    <h3>Warranty Protection</h3>
+                    <p>Comprehensive warranty on all services and parts</p>
+                </div>
+                <div class="feature-item">
+                    <i class="fa fa-clock-o"></i>
+                    <h3>Quick Service</h3>
+                    <p>Most services completed within 1-2 hours</p>
+                </div>
+                <div class="feature-item">
+                    <i class="fa fa-dollar"></i>
+                    <h3>Fair Pricing</h3>
+                    <p>Transparent pricing with no hidden fees</p>
+                </div>
+                <div class="feature-item">
+                    <i class="fa fa-gears"></i>
+                    <h3>Quality Parts</h3>
+                    <p>We use only OEM and high-quality aftermarket parts</p>
+                </div>
+                <div class="feature-item">
+                    <i class="fa fa-mobile-phone"></i>
+                    <h3>Digital Updates</h3>
+                    <p>Real-time service updates via SMS and email</p>
+                </div>
+            </div>
+        </div>
+    </section>
+<!--        <div id="footer-bottom">-->
+<!--            <div class="container-lg">-->
+<!--                <div class="row">-->
+<!--                    <div class="col-md-6 copyright">-->
+<!--                        <p>© 2024 Organic. All rights reserved.</p>-->
+<!--                    </div>-->
+<!--                    <div class="col-md-6 credit-link text-start text-md-end">-->
+<!--                        <p>HTML Template by <a href="https://templatesjungle.com/">TemplatesJungle</a> Distributed By <a-->
+<!--                                href="https://themewagon.com">ThemeWagon-->
+<!--                        </a>-->
+<!--                        </p>-->
+<!--                    </div>-->
+<!--                </div>-->
+<!--            </div>-->
+<!--        </div>-->
+    </template>
+</odoo>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+  <template id="ac_contact_header" name="Contact head">
+   <!-- Contact Hero -->
+    <section class="contact-hero">
+        <div class="container">
+            <h1>Contact AutoCare Pro</h1>
+            <p>Get in touch with us for all your vehicle service needs</p>
+        </div>
+    </section>
+  </template>
+</odoo>

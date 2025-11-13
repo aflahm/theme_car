@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <template id="ac_service_title" name="Service Title ">
+        <section class="services-hero">
+        <div class="container">
+            <h1>Our Professional Services</h1>
+            <p>Comprehensive vehicle maintenance and repair services to keep your car running smoothly</p>
+        </div>
+    </section>
+    </template>
+</odoo>

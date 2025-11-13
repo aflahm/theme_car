@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <template id="ac_packages" name="Package">
+         <!-- Service Packages -->
+    <section class="service-packages">
+        <div class="container">
+            <h2>Service Packages</h2>
+            <p class="section-subtitle">Save money with our bundled service packages</p>
+            <div class="packages-grid">
+                <div class="package-card">
+                    <div class="package-header">
+                        <h3>Basic Maintenance</h3>
+                        <div class="package-price">$199</div>
+                    </div>
+                    <ul class="package-features">
+                        <li><i class="fa fa-check-square-o"></i> Oil change with synthetic oil</li>
+                        <li><i class="fa fa-check-square-o"></i> Air filter replacement</li>
+                        <li><i class="fa fa-check-square-o"></i> Tire rotation</li>
+                        <li><i class="fa fa-check-square-o"></i> Fluid level check</li>
+                        <li><i class="fa fa-check-square-o"></i> Basic inspection</li>
+                    </ul>
+                    <button class="btn btn-outline">Choose Package</button>
+                </div>
+                <div class="package-card featured">
+                    <div class="package-badge">Most Popular</div>
+                    <div class="package-header">
+                        <h3>Complete Care</h3>
+                        <div class="package-price">$399</div>
+                    </div>
+                    <ul class="package-features">
+                        <li><i class="fa fa-check-square-o"></i> Everything in Basic Maintenance</li>
+                        <li><i class="fa fa-check-square-o"></i> Cabin air filter replacement</li>
+                        <li><i class="fa fa-check-square-o"></i> Brake inspection and cleaning</li>
+                        <li><i class="fa fa-check-square-o"></i> Battery test and cleaning</li>
+                        <li><i class="fa fa-check-square-o"></i> Computer diagnostic</li>
+                        <li><i class="fa fa-check-square-o"></i> Car wash and detail</li>
+                    </ul>
+                    <button class="btn btn-primary">Choose Package</button>
+                </div>
+                <div class="package-card">
+                    <div class="package-header">
+                        <h3>Premium Service</h3>
+                        <div class="package-price">$599</div>
+                    </div>
+                    <ul class="package-features">
+                        <li><i class="fa fa-check-square-o"></i> Everything in Complete Care</li>
+                        <li><i class="fa fa-check-square-o"></i> Wheel alignment</li>
+                        <li><i class="fa fa-check-square-o"></i> AC system service</li>
+                        <li><i class="fa fa-check-square-o"></i> Transmission service</li>
+                        <li><i class="fa fa-check-square-o"></i> Premium car detailing</li>
+                        <li><i class="fa fa-check-square-o"></i> 6-month warranty</li>
+                    </ul>
+                    <button class="btn btn-outline">Choose Package</button>
+                </div>
+            </div>
+        </div>
+    </section>
+    </template>
+</odoo>

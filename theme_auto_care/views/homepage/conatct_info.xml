@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+  <template id="ac_contact_info" name="Contact info">
+ <!-- Contact Info -->
+    <section class="contact-info-section">
+        <div class="container">
+            <div class="contact-grid">
+                <div class="contact-item">
+                    <div class="contact-icon">
+                        <i class="fa fa-map-marker"></i>
+                    </div>
+                    <h3>Visit Our Location</h3>
+                    <p>123 Service Street<br/>Auto City, AC 12345</p>
+                    <a href="#" class="contact-link">Get Directions</a>
+                </div>
+                <div class="contact-item">
+                    <div class="contact-icon">
+                        <i class="fa fa-mobile-phone"></i>
+                    </div>
+                    <h3>Call Us</h3>
+                    <p>Main: (555) 123-4567<br/>Emergency: (555) 911-AUTO</p>
+                    <a href="tel:5551234567" class="contact-link">Call Now</a>
+                </div>
+                <div class="contact-item">
+                    <div class="contact-icon">
+                        <i class="fa fa-envelope"></i>
+                    </div>
+                    <h3>Email Us</h3>
+                    <p>info@autocarepro.com<br/>support@autocarepro.com</p>
+                    <a href="mailto:info@autocarepro.com" class="contact-link">Send Email</a>
+                </div>
+                <div class="contact-item">
+                    <div class="contact-icon">
+                        <i class="fa fa-clock-o"></i>
+                    </div>
+                    <h3>Business Hours</h3>
+                    <p>Mon-Fri: 8:00 AM - 6:00 PM<br/>Sat: 9:00 AM - 4:00 PM<br/>Sun: Closed</p>
+                    <a href="/ac_contact_emergency" class="contact-link">Emergency Service 24/7</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+  </template>
+</odoo>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <template id="ac_our_service" name="Our Service">
+
+    <section id="services" class="services-overview">
+        <div class="container">
+            <h2>Our Services</h2>
+            <div class="services-grid">
+                <div class="service-card">
+                    <i class="fa fa-automobile"></i>
+                    <h3>Car Wash and Detailing</h3>
+                    <p>Professional cleaning and detailing services</p>
+                    <span class="price">From $25</span>
+                </div>
+                <div class="service-card">
+                    <i class="fa fa-flask"></i>
+                    <h3>Oil Change</h3>
+                    <p>Regular oil changes with premium filters</p>
+                    <span class="price">From $35</span>
+                </div>
+                <div class="service-card">
+                    <i class="fa fa-wrench"></i>
+                    <h3>Full Service</h3>
+                    <p>Comprehensive vehicle inspection and maintenance</p>
+                    <span class="price">From $150</span>
+                </div>
+                <div class="service-card">
+                    <i class="fa fa-circle-o"></i>
+                    <h3>Tire Services</h3>
+                    <p>Tire replacement, rotation, and alignment</p>
+                    <span class="price">From $80</span>
+                </div>
+                <div class="service-card">
+                    <i class="fa fa-snowflake-o"></i>
+                    <h3>AC Repair</h3>
+                    <p>Air conditioning system repair and maintenance</p>
+                    <span class="price">From $120</span>
+                </div>
+                <div class="service-card">
+                    <i class="fa fa-warning"></i>
+                    <h3>Emergency Repair</h3>
+                    <p>Urgent repairs and roadside assistance</p>
+                    <span class="price">From $100</span>
+                </div>
+            </div>
+            <div class="text-center">
+                <a href="ac_service_detailed" class="btn btn-primary">
+                    View All Services
+                </a>
+
+            </div>
+        </div>
+    </section>
+    </template>
+</odoo>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+  <template id="ac_about_us" name="About_Us">
+         <!-- About Hero -->
+    <section class="about-hero">
+        <div class="container">
+            <h1>About AutoCare Pro</h1>
+            <p>Your trusted partner in vehicle maintenance and repair since 2010</p>
+        </div>
+    </section>
+  </template>
+</odoo>

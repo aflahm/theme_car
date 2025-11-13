@@ -1,0 +1,33 @@
+<odoo>
+    <template id="ac_offer" name="Offers">
+         <section class="promotions">
+        <div class="container">
+            <h2>Special Offers</h2>
+            <div class="promo-grid">
+                <div class="promo-card">
+                    <div class="promo-badge">20% OFF</div>
+                    <h3><b>Spring Maintenance Package</b></h3>
+                    <p>Complete vehicle inspection, oil change, and tire rotation</p>
+                    <span class="original-price">$200</span>
+                    <span class="sale-price">$160</span>
+                    <button class="btn btn-outline" onclick="window.location.href='/map_nd_form'">Book Now</button>
+                </div>
+                <div class="promo-card">
+                    <div class="promo-badge">FREE</div>
+                    <h3><b>Free Car Wash</b></h3>
+                    <p>Complimentary car wash with any service over $100</p>
+                    <span class="sale-price">$0</span>
+                    <button class="btn btn-outline">Learn More</button>
+                </div>
+                <div class="promo-card">
+                    <div class="promo-badge">15% OFF</div>
+                    <h3><b>New Customer Special</b></h3>
+                    <p>First-time customers get 15% off their first service</p>
+                    <span class="sale-price">15% OFF</span>
+                    <button class="btn btn-outline">Get Started</button>
+                </div>
+            </div>
+        </div>
+    </section>
+    </template>
+</odoo>

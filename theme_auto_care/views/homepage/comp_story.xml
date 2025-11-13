@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+  <template id="ac_comp_story" name="Company Story">
+  <section class="company-story">
+        <div class="container">
+            <div class="story-content">
+                <div class="story-text">
+                    <h2>Our Story</h2>
+                    <p class="lead">
+                        Founded in 2010 by automotive enthusiasts John and Sarah Martinez, AutoCare Pro began
+                        as a small family-owned garage with a simple mission: to provide honest, reliable,
+                        and affordable vehicle service.
+                    </p>
+                    <p>
+                        What started as a two-person operation in a modest 2-bay garage has grown into
+                        Auto City's most trusted automotive service center. Our commitment to quality
+                        workmanship, fair pricing, and exceptional customer service has earned us the
+                        loyalty of over 10,000 satisfied customers.
+                    </p>
+                    <p>
+                        Today, we operate a state-of-the-art facility with 12 service bays, employing
+                        25 certified technicians who collectively bring over 200 years of automotive
+                        experience to every job.
+                    </p>
+                    <div class="story-stats">
+                        <div class="stat-item">
+                            <h3>10,000+</h3>
+                            <p>Happy Customers</p>
+                        </div>
+                        <div class="stat-item">
+                            <h3>50,000+</h3>
+                            <p>Services Completed</p>
+                        </div>
+                        <div class="stat-item">
+                            <h3>14</h3>
+                            <p>Years of Excellence</p>
+                        </div>
+                        <div class="stat-item">
+                            <h3>25</h3>
+                            <p>Certified Technicians</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="story-image">
+                    <img src="theme_auto_care/static/description/autocarepro.jpg" alt="AutoCare Pro Facility"/>
+                </div>
+            </div>
+        </div>
+    </section>
+  </template>
+</odoo>

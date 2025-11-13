@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <template id="ac_home" name="Home">
+           <!-- Hero Section -->
+    <section id="home" class="hero">
+        <div class="ac_hero-content">
+            <h1>Professional Vehicle Service</h1>
+            <p>Trusted by thousands of car owners. Expert mechanics, quality parts, and exceptional service.</p>
+            <div class="hero-buttons">
+                <button class="btn btn-primary" onclick="window.location.href='/map_nd_form'">
+                    <i class="fa fa-calendar-plus"></i>
+                    Book Service Now
+                </button>
+                <button class="btn btn-secondary" onclick="window.location.href='/services'">
+                    <i class="fa fa-wrench"></i>
+                    Our Services
+                </button>
+
+            </div>
+        </div>
+        <div class="hero-image">
+            <img src="theme_auto_care/static/description/istockphoto-1589417945-612x612.jpg" alt="Professional car service"/>
+        </div>
+    </section>
+
+    </template>
+</odoo>

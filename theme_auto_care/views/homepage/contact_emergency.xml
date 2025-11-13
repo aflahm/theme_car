@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+  <template id="ac_contact_emergency" name="Cont Emergency">
+<!-- Emergency Contact -->
+        <section id="contact" class="emergency-contact">
+        <div class="container">
+            <div class="emergency-content">
+                <div class="emergency-info">
+                    <h2>Need Emergency Service?</h2>
+                    <p>If you're stranded or need urgent vehicle repair, our emergency service team is available 24/7 to help get you back on the road.</p>
+                    <div class="emergency-features">
+                        <div class="emergency-feature">
+                            <i class="fa fa-clock-o"></i>
+                            <span>24/7 Availability</span>
+                        </div>
+                        <div class="emergency-feature">
+                            <i class="fa fa-truck"></i>
+                            <span>Roadside Assistance</span>
+                        </div>
+                        <div class="emergency-feature">
+                            <i class="fa fa-gears"></i>
+                            <span>On-Site Repairs</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="emergency-contact-info">
+                    <div class="emergency-number">
+                        <h3>Emergency Hotline</h3>
+                        <a href="tel:5559112886" class="emergency-phone">(555) 911-AUTO</a>
+                        <p>Available 24 hours a day, 7 days a week</p>
+                    </div>
+                    <button class="btn btn-primary" onclick="openEmergencyBooking()">
+                        <i class="fa fa-ambulance"></i>
+                        Request Emergency Service
+                    </button>
+                </div>
+            </div>
+        </div>
+    </section>
+  </template>
+</odoo>
