@@ -4,13 +4,12 @@
     'category': 'Theme/Corporate',
     'version': '18.0.0.0',
     'sequence': 1,
-    'author': 'ZAPP',
-    'summary': '''Theme AutoCare is featured with Service functionalities and is fully responsive to all devices.''',
+    'author': 'TECHVEX',
+    'summary': '''Theme AutoCare is featured with AutoCare Service and is fully responsive to all devices.''',
 
     'depends': [
         'website',
         'web_editor',
-        'website_sale',
     ],
 
     'data': [
@@ -42,19 +41,8 @@
     ],
 
     'assets': {
-        'web._assets_primary_variables': [
-            ('before', 'website/static/src/scss/options/colors/user_color_palette.scss',
-             '/theme_auto_care/static/src/scss/user_color_palette.scss'),
-            ('before', 'website/static/src/scss/options/user_values.scss',
-             '/theme_auto_care/static/src/scss/user_values.scss'),
-        ],
-    },
-
-    'assets': {
         'web.assets_frontend': [
             'theme_auto_care/static/src/css/banner.css',
-            'theme_auto_care/static/src/css/normalise.css',
-            'theme_auto_care/static/src/css/vendor.css',
             
         ],
     },
@@ -65,6 +53,9 @@
 
     ],
 
+    'support': 'techvex.dev@gmail.com',
+    'price': 17.00,
+    'currency': 'USD',
     'installable': True,
     'auto_install': False,
     'application': False,
