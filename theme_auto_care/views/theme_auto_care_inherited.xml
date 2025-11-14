@@ -21,8 +21,6 @@
 				<t t-snippet="theme_auto_care.ac_contact_info" t-thumbnail="/theme_auto_care/static/description/icon.png" />
 				<t t-snippet="theme_auto_care.ac_map_form" t-thumbnail="/theme_auto_care/static/description/icon.png" />
 				<t t-snippet="theme_auto_care.ac_contact_emergency" t-thumbnail="/theme_auto_care/static/description/icon.png" />
-
-
 			</snippets>
 		</xpath>
 	</template>

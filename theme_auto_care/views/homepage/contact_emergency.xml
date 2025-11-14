@@ -29,7 +29,7 @@
                         <a href="tel:5559112886" class="emergency-phone">(555) 911-AUTO</a>
                         <p>Available 24 hours a day, 7 days a week</p>
                     </div>
-                    <button class="btn btn-primary" onclick="openEmergencyBooking()">
+                    <button class="btn btn-primary" onclick="window.location.href='/ac_contact_info'">
                         <i class="fa fa-ambulance"></i>
                         Request Emergency Service
                     </button>
