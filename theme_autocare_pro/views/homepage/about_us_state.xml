@@ -9,22 +9,22 @@
             <p class="section-subtitle">Modern equipment and clean environment for superior service</p>
             <div class="facility-grid">
                 <div class="facility-item">
-                    <img src="theme_auto_care/static/description/service bay.jpg" alt="Service Bays"/>
+                    <img src="theme_autocare_pro/static/src/img/service bay.jpg" alt="Service Bays"/>
                     <h3>12 Service Bays</h3>
                     <p>Spacious, well-lit bays equipped with modern diagnostic tools and lifts</p>
                 </div>
                 <div class="facility-item">
-                    <img src="theme_auto_care/static/description/waiting_area.jpg" alt="Waiting Area"/>
+                    <img src="theme_autocare_pro/static/src/img/waiting_area.jpg" alt="Waiting Area"/>
                     <h3>Comfortable Waiting Area</h3>
                     <p>Relax in our modern waiting room with free WiFi, coffee, and TV</p>
                 </div>
                 <div class="facility-item">
-                    <img src="theme_auto_care/static/description/spare.jpg" alt="Parts Department"/>
+                    <img src="theme_autocare_pro/static/src/img/spare.jpg" alt="Parts Department"/>
                     <h3>Parts Department</h3>
                     <p>Extensive inventory of OEM and quality aftermarket parts</p>
                 </div>
                 <div class="facility-item">
-                    <img src="theme_auto_care/static/description/diagnosis.jpg" alt="Diagnostic Center"/>
+                    <img src="theme_autocare_pro/static/src/img/diagnosis.jpg" alt="Diagnostic Center"/>
                     <h3>Diagnostic Center</h3>
                     <p>Advanced computer diagnostic equipment for accurate problem identification</p>
                 </div>

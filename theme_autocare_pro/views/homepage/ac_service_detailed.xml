@@ -7,7 +7,7 @@
                     <!-- Car Wash & Detailing -->
                 <div class="service-detail maintenance cosmetic" data-category="maintenance cosmetic">
                     <div class="service-image">
-                        <img src="theme_auto_care/static/description/car_detailing.jpg"
+                        <img src="theme_auto_care/static/src/img/car_detailing.jpg"
                              alt="Car Wash Service"/>
                     </div>
                     <div class="service-content">
@@ -78,7 +78,7 @@
                 <!-- Oil Change -->
                 <div class="service-detail maintenance" data-category="maintenance">
                     <div class="service-image">
-                        <img src="theme_auto_care/static/description/car_oil_change.jpg"
+                        <img src="theme_auto_care/static/src/img/car_oil_change.jpg"
                              alt="Oil Change Service"/>
                     </div>
                     <div class="service-content">
@@ -148,7 +148,7 @@
                 <!-- Full Service -->
                 <div class="service-detail maintenance" data-category="maintenance">
                     <div class="service-image">
-                        <img src="theme_auto_care/static/description/complete vehicle service.jpg"
+                        <img src="theme_auto_care/static/src/img/complete vehicle service.jpg"
                              alt="Full Service"/>
                     </div>
                     <div class="service-content">
@@ -234,7 +234,7 @@
                 <!-- Tire Services -->
                 <div class="service-detail maintenance repair" data-category="maintenance repair">
                     <div class="service-image">
-                        <img src="theme_auto_care/static/description/tyre service.jpg"
+                        <img src="theme_auto_care/static/src/img/tyre service.jpg"
                              alt="Tire Services"/>
                     </div>
                     <div class="service-content">
@@ -308,7 +308,7 @@
                 <!-- AC Repair -->
                 <div class="service-detail repair" data-category="repair">
                     <div class="service-image">
-                        <img src="theme_auto_care/static/description/Car-AC-Repair-Near-Me-Vista.jpg"
+                        <img src="theme_auto_care/static/src/img/Car-AC-Repair-Near-Me-Vista.jpg"
                              alt="AC Repair Service"/>
                     </div>
                     <div class="service-content">
@@ -382,7 +382,7 @@
                 <!-- Emergency Service -->
                 <div class="service-detail emergency" data-category="emergency">
                     <div class="service-image">
-                        <img src="theme_auto_care/static/description/emergency.jpg"
+                        <img src="theme_auto_care/static/src/img/emergency.jpg"
                              alt="Emergency Service"/>
                     </div>
                     <div class="service-content">

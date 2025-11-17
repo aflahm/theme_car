@@ -1,6 +1,6 @@
 
 {
-    'name': 'Theme AutoCare Pro',
+    'name': 'AutoCare Pro',
     'category': 'Theme/Corporate',
     'version': '18.0.0.0',
     'sequence': 1,
@@ -16,7 +16,7 @@
 
         "views/header.xml",
         "views/footer.xml",
-        "views/theme_auto_care_inherited.xml",
+        "views/theme_autocare_pro_inherited.xml",
         # homepage
         "views/homepage/ac_home.xml",
         "views/homepage/ac_offer.xml",
@@ -42,7 +42,7 @@
 
     'assets': {
         'web.assets_frontend': [
-            'theme_auto_care/static/src/css/banner.css',
+            'theme_autocare_pro/static/src/css/banner.css',
             
         ],
     },

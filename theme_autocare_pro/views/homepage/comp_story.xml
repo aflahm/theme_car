@@ -42,7 +42,7 @@
                     </div>
                 </div>
                 <div class="story-image">
-                    <img src="theme_auto_care/static/description/autocarepro.jpg" alt="AutoCare Pro Facility"/>
+                    <img src="theme_autocare_pro/static/src/img/autocarepro.jpg" alt="AutoCare Pro Facility"/>
                 </div>
             </div>
         </div>
