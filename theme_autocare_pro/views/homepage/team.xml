@@ -9,7 +9,7 @@
             <div class="team-grid">
                 <div class="team-member">
                     <div class="member-photo">
-                        <img src="theme_auto_care/static/description/cus review2.jpg" alt="John Martinez"/>
+                        <img src="theme_autocare_pro/static/src/img/cus review2.jpg" alt="John Martinez"/>
                     </div>
                     <div class="member-info">
                         <h3>John Martinez</h3>
@@ -26,7 +26,7 @@
                 </div>
                 <div class="team-member">
                     <div class="member-photo">
-                        <img src="theme_auto_care/static/description/cust review1.jpg" alt="Sarah Martinez"/>
+                        <img src="theme_autocare_pro/static/src/img/cust review1.jpg" alt="Sarah Martinez"/>
                     </div>
                     <div class="member-info">
                         <h3>Sarah Martinez</h3>
@@ -43,7 +43,7 @@
                 </div>
                 <div class="team-member">
                     <div class="member-photo">
-                        <img src="theme_auto_care/static/description/cus review3.jpg" alt="Mike Chen"/>
+                        <img src="theme_autocare_pro/static/src/img/cus review3.jpg" alt="Mike Chen"/>
                     </div>
                     <div class="member-info">
                         <h3>Mike Chen</h3>
@@ -60,7 +60,7 @@
                 </div>
                 <div class="team-member">
                     <div class="member-photo">
-                        <img src="theme_auto_care/static/description/cust5.jpg" alt="Lisa Rodriguez"/>
+                        <img src="theme_autocare_pro/static/src/img/cust5.jpg" alt="Lisa Rodriguez"/>
                     </div>
                     <div class="member-info">
                         <h3>Lisa Rodriguez</h3>
@@ -77,7 +77,7 @@
                 </div>
                 <div class="team-member">
                     <div class="member-photo">
-                        <img src="theme_auto_care/static/description/cust4.jpg" alt="David Thompson"/>
+                        <img src="theme_autocare_pro/static/src/img/cust4.jpg" alt="David Thompson"/>
                     </div>
                     <div class="member-info">
                         <h3>David Thompson</h3>
@@ -94,7 +94,7 @@
                 </div>
                 <div class="team-member">
                     <div class="member-photo">
-                        <img src="theme_auto_care/static/description/cust6n.jpg" alt="Emily Johnson"/>
+                        <img src="theme_autocare_pro/static/src/img/cust6n.jpg" alt="Emily Johnson"/>
                     </div>
                     <div class="member-info">
                         <h3>Emil Johnson</h3>

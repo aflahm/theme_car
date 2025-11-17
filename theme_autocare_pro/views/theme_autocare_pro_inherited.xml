@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+	<template id="theme_autocare_pro_snippets" inherit_id="website.snippets">
+		<xpath expr="//snippets[@id='snippet_structure']" position="after">
+		 	<snippets class="o_panel_body" string="Homepage Snippets">
+				<t t-snippet="theme_autocare_pro.ac_home" t-thumbnail="/theme_autocare_pro/static/description/icon.png" />
+				<t t-snippet="theme_autocare_pro.ac_offer" t-thumbnail="/theme_autocare_pro/static/description/icon.png" />
+				<t t-snippet="theme_autocare_pro.ac_help" t-thumbnail="/theme_autocare_pro/static/description/icon.png" />
+				<t t-snippet="theme_autocare_pro.ac_service_detailed" t-thumbnail="/theme_autocare_pro/static/description/icon.png" />
+				<t t-snippet="theme_autocare_pro.ac_our_service" t-thumbnail="/theme_autocare_pro/static/description/icon.png" />
+				<t t-snippet="theme_autocare_pro.ac_service_title" t-thumbnail="/theme_autocare_pro/static/description/icon.png" />
+				<t t-snippet="theme_autocare_pro.ac_y_choose_us" t-thumbnail="/theme_autocare_pro/static/description/icon.png" />
+				<t t-snippet="theme_autocare_pro.ac_packages" t-thumbnail="/theme_autocare_pro/static/description/icon.png" />
+				<t t-snippet="theme_autocare_pro.ac_review" t-thumbnail="/theme_autocare_pro/static/description/icon.png" />
+				<t t-snippet="theme_autocare_pro.ac_about_us" t-thumbnail="/theme_autocare_pro/static/description/icon.png" />
+				<t t-snippet="theme_autocare_pro.ac_comp_story" t-thumbnail="/theme_autocare_pro/static/description/icon.png" />
+				<t t-snippet="theme_autocare_pro.ac_team" t-thumbnail="/theme_autocare_pro/static/description/icon.png" />
+				<t t-snippet="theme_autocare_pro.ac_aboutus_state" t-thumbnail="/theme_autocare_pro/static/description/icon.png" />
+				<t t-snippet="theme_autocare_pro.ac_contact" t-thumbnail="/theme_autocare_pro/static/description/icon.png" />
+				<t t-snippet="theme_autocare_pro.ac_contact_header" t-thumbnail="/theme_autocare_pro/static/description/icon.png" />
+				<t t-snippet="theme_autocare_pro.ac_contact_info" t-thumbnail="/theme_autocare_pro/static/description/icon.png" />
+				<t t-snippet="theme_autocare_pro.ac_map_form" t-thumbnail="/theme_autocare_pro/static/description/icon.png" />
+				<t t-snippet="theme_autocare_pro.ac_contact_emergency" t-thumbnail="/theme_autocare_pro/static/description/icon.png" />
+			</snippets>
+		</xpath>
+	</template>
+</odoo>

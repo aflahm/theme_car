@@ -15,7 +15,7 @@
                     </div>
                     <p>"Excellent service! The team was professional and completed my car's maintenance quickly. Highly recommended!"</p>
                     <div class="customer">
-                        <img src="theme_auto_care/static/description/cus review2.jpg" alt="Customer"/>
+                        <img src="theme_auto_care/static/src/img/cus review2.jpg" alt="Customer"/>
                         <div>
                             <h4>John Smith</h4>
                             <span>Regular Customer</span>
@@ -32,7 +32,7 @@
                     </div>
                     <p>"Great emergency service! They came to my location and fixed my car on the spot. Very reliable!"</p>
                     <div class="customer">
-                        <img src="theme_auto_care/static/description/cust review1.jpg" alt="Customer"/>
+                        <img src="theme_auto_care/static/src/img/cust review1.jpg" alt="Customer"/>
                         <div>
                             <h4>Sarah Johnson</h4>
                             <span>Emergency Service</span>
@@ -49,7 +49,7 @@
                     </div>
                     <p>"Fair pricing and honest service. They explained everything clearly and didn't try to upsell unnecessary services."</p>
                     <div class="customer">
-                        <img src="theme_auto_care/static/description/cus review3.jpg" alt="Customer"/>
+                        <img src="theme_auto_care/static/src/img/cus review3.jpg" alt="Customer"/>
                         <div>
                             <h4>Mike Davis</h4>
                             <span>New Customer</span>
